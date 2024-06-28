@@ -1,0 +1,10 @@
+D:\SideProject\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\SideProject\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\SideProject\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\SideProject\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+D:\SideProject\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\SideProject\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\SideProject\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\SideProject\ConsoleApplication\ConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+D:\SideProject\ConsoleApplication\ConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+D:\SideProject\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleA.44DD3A81.Up2Date
